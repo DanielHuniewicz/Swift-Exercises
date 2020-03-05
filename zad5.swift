@@ -1,6 +1,5 @@
 import Foundation
 import Glibc
-import Foundation
 
     protocol ControlProtocol {
     var element_name: String { get }
